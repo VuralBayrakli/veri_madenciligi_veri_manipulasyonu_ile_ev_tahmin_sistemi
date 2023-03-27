@@ -1,0 +1,1 @@
+# veri_madenciligi_veri_manipulasyonu_ile_ev_tahmin_sistemi
