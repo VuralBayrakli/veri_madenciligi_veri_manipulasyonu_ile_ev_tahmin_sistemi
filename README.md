@@ -13,7 +13,7 @@ Bu projede Makine öğrenmesi, veri madenciliği ve veri manipülasyon teknikler
 ![App Screenshot](https://github.com/VuralBayrakli/veri_madenciligi_veri_manipulasyonu_ile_ev_tahmin_sistemi/blob/master/screenshots/ss5.png)
 
 ## Veri Manipülasyonu
-`veri_manipülasyon.ipynb` dosyasında veri madenciliği ile ham şekilde oluşturulan veri seti üzerinde bir takım işlemler uygulanarak model oluşturmaya hazır hale getirilir.
+`veri_manipülasyon.ipynb` dosyasında veri madenciliği ile ham şekilde oluşturulan veri seti üzerinde bir takım işlemler uygulanarak model oluşturmaya hazır hale getirilmiştir.
 
 ![App Screenshot](https://github.com/VuralBayrakli/veri_madenciligi_veri_manipulasyonu_ile_ev_tahmin_sistemi/blob/master/screenshots/ss6.png)
 ## Dosya Yükleme
